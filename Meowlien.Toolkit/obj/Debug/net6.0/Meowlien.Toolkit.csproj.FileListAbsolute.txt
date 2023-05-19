@@ -1,0 +1,12 @@
+D:\Waylon\Meowlien\Workspace\Projects\SVC\Meowlien.Toolkit\Meowlien.Toolkit\bin\Debug\net6.0\Meowlien.Toolkit.deps.json
+D:\Waylon\Meowlien\Workspace\Projects\SVC\Meowlien.Toolkit\Meowlien.Toolkit\bin\Debug\net6.0\Meowlien.Toolkit.dll
+D:\Waylon\Meowlien\Workspace\Projects\SVC\Meowlien.Toolkit\Meowlien.Toolkit\bin\Debug\net6.0\Meowlien.Toolkit.pdb
+D:\Waylon\Meowlien\Workspace\Projects\SVC\Meowlien.Toolkit\Meowlien.Toolkit\obj\Debug\net6.0\Meowlien.Toolkit.csproj.AssemblyReference.cache
+D:\Waylon\Meowlien\Workspace\Projects\SVC\Meowlien.Toolkit\Meowlien.Toolkit\obj\Debug\net6.0\Meowlien.Toolkit.GeneratedMSBuildEditorConfig.editorconfig
+D:\Waylon\Meowlien\Workspace\Projects\SVC\Meowlien.Toolkit\Meowlien.Toolkit\obj\Debug\net6.0\Meowlien.Toolkit.AssemblyInfoInputs.cache
+D:\Waylon\Meowlien\Workspace\Projects\SVC\Meowlien.Toolkit\Meowlien.Toolkit\obj\Debug\net6.0\Meowlien.Toolkit.AssemblyInfo.cs
+D:\Waylon\Meowlien\Workspace\Projects\SVC\Meowlien.Toolkit\Meowlien.Toolkit\obj\Debug\net6.0\Meowlien.Toolkit.csproj.CoreCompileInputs.cache
+D:\Waylon\Meowlien\Workspace\Projects\SVC\Meowlien.Toolkit\Meowlien.Toolkit\obj\Debug\net6.0\Meowlien.Toolkit.dll
+D:\Waylon\Meowlien\Workspace\Projects\SVC\Meowlien.Toolkit\Meowlien.Toolkit\obj\Debug\net6.0\refint\Meowlien.Toolkit.dll
+D:\Waylon\Meowlien\Workspace\Projects\SVC\Meowlien.Toolkit\Meowlien.Toolkit\obj\Debug\net6.0\Meowlien.Toolkit.pdb
+D:\Waylon\Meowlien\Workspace\Projects\SVC\Meowlien.Toolkit\Meowlien.Toolkit\obj\Debug\net6.0\ref\Meowlien.Toolkit.dll
